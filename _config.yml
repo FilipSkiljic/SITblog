@@ -22,8 +22,8 @@ title: Filip Škiljić
 email: filip.skiljic99@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Zovem se Filip Škiljić i studiram IT
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog"
+url: "https://example.com"
 github_username:  FilipSkiljic
 
 # Build settings
